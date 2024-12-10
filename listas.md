@@ -28,7 +28,7 @@ Confiram a lista de atividades a seguir:
 {% for atividade in atividades %}
     <tr>
         <td> <a href="{{ atividade.url | relative_url }}" target="_blank">{{  atividade.nome }}</a></td>
-        <td>
+        <td> {{ atividade.prazo }}
 
         {% comment %}
         {% assign prazo = atividade.prazo | date: "%d/%m/%Y" | date: "%s" %}
