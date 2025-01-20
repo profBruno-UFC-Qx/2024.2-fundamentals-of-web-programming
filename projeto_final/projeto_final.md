@@ -9,8 +9,9 @@ nav_order: 15
 * [Descrição](#desc)
 * [Requisitos mínimos](#req)
 * [Entregas](#entregas)
-  * [Proposta](#envio1)
-  * [Código](#envio3)
+  * [Proposta](#envio1) 
+  * [Telas](#envio2) - **Prazo: 02/02/2025**
+  * [Código](#envio3) - **Prazo: 17/02/2025**
 * [Apresentação do projeto](#apresentacao)
 
 ---
@@ -79,6 +80,24 @@ Para auxiliar nessa tarefa, vocês irão realizar criar um repositório no GitHu
 > Os trabalhos devem necessariamente ter domínios distintos. 
 > 
 > A ordem de envio para o professor determina quem tem prioridade por determinado domínio. Caso o domínio já tenha sido escolhido por outro aluno, deve-se propor um novo domínio.
+
+<hr>
+
+## Envio da proposta <a name="envio1"></a>
+
+O envio das telas deve ser feito via commit no repositório do **GitHub** enviado com a proposta de projeto final.
+Para esta entrega deverá ser enviadas a primeira versão de pelo menos **quatro** telas:
+
+- A tela de login
+- A tela de cadastro de usuários
+- A tela principal do sistema (estou considerando que é primeira tela vista após o login)
+- Mais uma tela que a equipe pode escolher
+
+Por se tratar da primeira versão de cada tela, a parte visual não precisa ser feito com o maior capricho.
+A ideia é que esta entrega não tome muito tempo, ainda assim, espero que as telas sejam capazes de apresentar o sistema de froma geral.
+
+{: .highlight }
+A entrega vale **1 ponto**. Desta forma, aquelas equipes que perderem o prazo não poderão atingir a nota máxima **10**. Ainda que todos os pré-requisitos sejam cumprindos.
 
 <hr>
 
