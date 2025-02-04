@@ -13,3 +13,4 @@ title: Repositórios de exemplos
 * <a href="https://github.com/profBruno-UFC-Qx/qxd0020-simple-pacman-js" target="_blank"> Pacman super simples </a> <span class="label label-blue">JavaScript</span>
 * <a href="https://github.com/profBruno-UFC-Qx/qxd0020-jonkenpo" target="_blank"> Jon Ken Po</a> <span class="label label-blue">JavaScript</span>
 * <a href="https://github.com/profBruno-UFC-Qx/qxd0020-pokemon-and-pokeballs" target="_blank"> Pokemon & Pokebolas</a> <span class="label label-blue">TypeScript</span>
+* <a href="https://github.com/profBruno-UFC-Qx/Todolist-2024-2" target="_blank"> Código inicial da TodoList </a>
